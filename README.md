@@ -75,10 +75,10 @@ Steps 2–4 below are all run in **one terminal**. Open it once in step 1 and re
 We recommend working on this assignment in **Visual Studio Code (VS Code)**. If you have not worked with an editor before:
 
 1. Install VS Code from [code.visualstudio.com](https://code.visualstudio.com/), and add the **Python** and **Jupyter** extensions (from the Extensions panel on the left).
-2. Download [this assignment repository](https://github.com/tue-bmd/5cta0-project-student) to your computer. If you are comfortable with Git, you can instead clone it.
+2. Download [this assignment repository](https://github.com/Martijn-vd-s/5CTA0-project-group-50) to your computer. If you are comfortable with Git, you can instead clone it.
 
    ```bash
-   git clone https://github.com/tue-bmd/5cta0-project-student.git
+   git clone https://github.com/Martijn-vd-s/5CTA0-project-group-50.git
    ```
 
 3. Open VS Code and open the assignment folder (**File → Open Folder…**) so your editor is looking at the correct files.
